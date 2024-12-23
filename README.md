@@ -1,6 +1,6 @@
 # Day2-31r-10000coders
 
-Display behaviours:
+Display behaviours:<br>
 **Block level elements**
 <br>
 **Inline level elements**<br>

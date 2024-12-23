@@ -1,4 +1,4 @@
-**Day 3(10000coders):**
+**Day 2(10000coders):**
 
 
 Display behaviours:
